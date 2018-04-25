@@ -1,0 +1,16 @@
+[{
+    "itemname": "Nokia 6",
+    "category": "Mobile",
+    "price": "₹ 10000"
+},
+{
+    "itemname": "Logitech Wireless Mouse",
+    "category": "Computer Accessories",
+    "price": "₹ 500"
+},
+{
+    "itemname": "Honda Activa",
+    "category": "Bike",
+    "price": "₹ 40000"
+}
+]
